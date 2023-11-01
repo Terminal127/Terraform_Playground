@@ -1,1 +1,1 @@
-token="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"
+token="<Your Auth Token From Github>"
